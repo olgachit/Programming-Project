@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Examples/Architecture/Architecture.iml" filepath="$PROJECT_DIR$/Examples/Architecture/Architecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Examples.iml" filepath="$PROJECT_DIR$/Examples/Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples/Graphics/Graphics.iml" filepath="$PROJECT_DIR$/Examples/Graphics/Graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples/MVCexample/MVCexample.iml" filepath="$PROJECT_DIR$/Examples/MVCexample/MVCexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Module1/Module1.iml" filepath="$PROJECT_DIR$/Examples/Module1/Module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples/MovingGraphics/MovingGraphics.iml" filepath="$PROJECT_DIR$/Examples/MovingGraphics/MovingGraphics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/ProbabilityDistributions/ProbabilityDistributions.iml" filepath="$PROJECT_DIR$/Examples/ProbabilityDistributions/ProbabilityDistributions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programming Project.iml" filepath="$PROJECT_DIR$/Programming Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Time_Slice_Sims/Time_Slice_Sims.iml" filepath="$PROJECT_DIR$/Examples/Time_Slice_Sims/Time_Slice_Sims.iml" />
