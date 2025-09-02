@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Examples/Examples.iml" filepath="$PROJECT_DIR$/Examples/Examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Module1/Module1.iml" filepath="$PROJECT_DIR$/Examples/Module1/Module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples/ProbabilityDistributions/ProbabilityDistributions.iml" filepath="$PROJECT_DIR$/Examples/ProbabilityDistributions/ProbabilityDistributions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programming Project.iml" filepath="$PROJECT_DIR$/Programming Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examples/Time_Slice_Sims/Time_Slice_Sims.iml" filepath="$PROJECT_DIR$/Examples/Time_Slice_Sims/Time_Slice_Sims.iml" />
     </modules>
   </component>
 </project>
