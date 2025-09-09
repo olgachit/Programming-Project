@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Programming Project.iml" filepath="$PROJECT_DIR$/Programming Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrientationTasks/Task2/Task2.iml" filepath="$PROJECT_DIR$/OrientationTasks/Task2/Task2.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrientationTasks/Task3/Task3.iml" filepath="$PROJECT_DIR$/OrientationTasks/Task3/Task3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrientationTasks/Task4/Task4.iml" filepath="$PROJECT_DIR$/OrientationTasks/Task4/Task4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tests/Tests.iml" filepath="$PROJECT_DIR$/Tests/Tests.iml" />
       <module fileurl="file://$PROJECT_DIR$/Examples/Time_Slice_Sims/Time_Slice_Sims.iml" filepath="$PROJECT_DIR$/Examples/Time_Slice_Sims/Time_Slice_Sims.iml" />
     </modules>
