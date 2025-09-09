@@ -11,6 +11,6 @@ N: Average number of patients in queue
 Question 3.
    ![Diagram in screenshot file](https://github.com/olgachit/Programming-Project/blob/main/OrientationTasks/Task4/Screenshot%202025-09-09%20at%2022.14.29.png)
 
-4. A-phase: EventList handles event removal  
+5. A-phase: EventList handles event removal  
 B-phase: ServicePoint and Customer update state  
 C-phase: ArrivalProcess or ServicePoint schedules new events  
